@@ -18,7 +18,7 @@
     <name>hazelcast-hibernate5</name>
     <groupId>com.hazelcast</groupId>
     <artifactId>hazelcast-hibernate5-parent</artifactId>
-    <version>1.2.1.INTERNAL-SNAPSHOT</version>
+    <version>1.2.2.INTERNAL-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>Hazelcast In-Memory DataGrid Hibernate Plugin</description>
     <url>http://www.hazelcast.com/</url>
@@ -96,10 +96,11 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/hazelcast/hazelcast-hibernate5.git</connection>
-        <developerConnection>scm:git:git@github.com:hazelcast/hazelcast-hibernate5.git</developerConnection>
-        <url>https://github.com/hazelcast/hazelcast/</url>
-    </scm>
+        <connection>scm:git:git://github.com/jontejj/hazelcast-hibernate5.git</connection>
+        <developerConnection>scm:git:git@github.com:jontejj/hazelcast-hibernate5.git</developerConnection>
+        <url>https://github.com/jontejj/hazelcast/</url>
+      <tag>hazelcast-hibernate5-parent-1.2.1.INTERNAL</tag>
+  </scm>
     <developers>
         <developer>
             <id>oztalip</id>
