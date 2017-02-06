@@ -14,8 +14,4 @@
  * limitations under the License.
  */
 
-/**
- * This class contains the Hibernate 5 serializer hooks so that we don't
- * lose handling on serialization while working on Hibernate.
- */
 package com.hazelcast.hibernate.serialization;

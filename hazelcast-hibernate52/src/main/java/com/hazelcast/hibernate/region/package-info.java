@@ -14,7 +14,4 @@
  * limitations under the License.
  */
 
-/**
- * Provides region interfaces/classes for Hibernate.
- */
 package com.hazelcast.hibernate.region;
